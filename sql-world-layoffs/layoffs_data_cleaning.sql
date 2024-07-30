@@ -1,4 +1,4 @@
-/* Data Cleaning Project for World Layoffs dataset
+/* Data Cleaning for World Layoffs dataset
 
 Purpose: To clean and prepare a dataset of worldwide company layoffs from 2020-03 to 2023-03 for further exploratory analysis
 
